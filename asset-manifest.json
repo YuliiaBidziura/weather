@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weather/static/css/main.5d8cd19b.css",
+    "main.js": "/weather/static/js/main.479412b3.js",
+    "static/media/depositphotos_11459205-stock-illustration-summer-landscape-with-waterfall-forest.jpg": "/weather/static/media/depositphotos_11459205-stock-illustration-summer-landscape-with-waterfall-forest.75bee7abfb455ba15073.jpg",
+    "index.html": "/weather/index.html",
+    "main.5d8cd19b.css.map": "/weather/static/css/main.5d8cd19b.css.map",
+    "main.479412b3.js.map": "/weather/static/js/main.479412b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d8cd19b.css",
+    "static/js/main.479412b3.js"
+  ]
+}
